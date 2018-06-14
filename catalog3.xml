@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style3.xsl"?>
+<student>
+
+    <students regno="001">
+
+    	<fname>Nimal</fname>
+    	<lname>Perera</lname>
+		<age>23</age>
+    	<department>Computing and Information Systems</department>
+
+    </students>
+
+
+    <students regno="002">
+
+    	<fname>Saman</fname>
+    	<lname>Athukorala</lname>
+		<age>25</age>
+    	<department>Computing and Information Systems</department>
+
+    </students>
+
+
+    <students regno="003">
+
+    	<fname>Nishantha</fname>
+    	<lname>Dunusingha</lname>
+		<age>31</age>
+    	<department>Physical Sciences and Technology</department>
+
+    </students>
+
+
+    <students regno="004">
+
+    	<fname>Ransi</fname>
+    	<lname>Ranasinghe</lname>
+		<age>24</age>
+    	<department>Natural Resources and Environment</department>
+
+    </students>
+
+
+    <students regno="005">
+
+    	<fname>Sandumi</fname>
+    	<lname>Jasinghe</lname>
+		<age>21</age>
+    	<department>Physical Sciences and Technology</department>
+
+    </students>
+
+
+</student>	
